@@ -2,7 +2,8 @@
 
 Welcome to the **Vegan Store Website**! This website is created for people who are passionate about healthy and vegan food. It showcases a variety of fresh produce, helpful information about vegan nutrition, and offers a seamless shopping experience. Whether you're a vegan or simply looking to add more plant-based foods to your diet, this store has something for everyone!
 
-![image](https://github.com/user-attachments/assets/4246c289-0013-40a7-9e47-02b3f9529991)
+
+![Screenshot 2025-01-31 212337](https://github.com/user-attachments/assets/fa0e7048-e1fd-460f-a6c3-e20a7c396cb7)
 
 
 ## Features:
